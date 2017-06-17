@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'century gothic';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,13 +21,14 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'century gothic';
     text-align: center;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+	font-family:'century gothic';
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -42,3 +43,4 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
